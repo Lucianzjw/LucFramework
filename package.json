@@ -1,0 +1,10 @@
+{
+  "name": "com.Lucian.LucFramework",
+  "displayName": "LucFramework",
+  "description": "Template for creating a new Unity package",
+  "version": "0.0.1",
+  "unity": "2022.3",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
